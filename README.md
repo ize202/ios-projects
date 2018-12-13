@@ -1,2 +1,2 @@
 # ios-projects
-app development
+Flowing Story - an ineractive story app
